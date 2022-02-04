@@ -1,1 +1,1 @@
-# AZ204
+# AZ204 training demos
