@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "48O566IwMZqB/thvV4R2bXQcmm98ES28WvLUwQyfwjF03h23hGjDx1IvEKdhT0spa5rbMX+BVE06Z4sWUvABQA==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\AZ204\\Demo2\\HelloAzureApp2\\HelloAzureApp2\\HelloAzureApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z001xtev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
